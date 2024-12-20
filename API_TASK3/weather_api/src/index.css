@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Varela+Round&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif; 
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: linear-gradient(135deg, #2c3e50, #34495e); 
+
+}
